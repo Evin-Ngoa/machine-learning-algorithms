@@ -1,1 +1,1 @@
-# machine-learning-algorithms
+# Algorithms written in Python
